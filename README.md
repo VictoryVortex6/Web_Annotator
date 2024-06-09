@@ -3,6 +3,9 @@
 ## Overview
 Web Annotator is a Chrome extension that allows users to seamlessly add, edit, and manage notes directly on any webpage.
 
+![WhatsApp Image 2024-06-09 at 22 57 40_b4adb15d](https://github.com/VictoryVortex6/Web_Annotator/assets/149820466/105e6273-0913-4310-a152-e5df9b690afd)
+
+
 ## Features
 - **Highlight Text**: Select text and apply highlights using right-click or keyboard shortcuts.
 - **Customize Highlights**: Change highlight colors to suit your preferences.
